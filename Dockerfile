@@ -1,3 +1,3 @@
-FROM docker.io/lipanski/docker-static-website:latest
+FROM docker.io/lipanski/docker-static-website:latest@sha256:66a530684a934a9b94f65a90f286cba291a7daf4dd7d55dcc17f217915056cd5
 
 COPY index.html index.html
